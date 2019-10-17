@@ -1,0 +1,3 @@
+mobile
+teliphone
+laptop
