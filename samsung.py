@@ -1,3 +1,4 @@
 mobile
 teliphone
 laptop
+computer
